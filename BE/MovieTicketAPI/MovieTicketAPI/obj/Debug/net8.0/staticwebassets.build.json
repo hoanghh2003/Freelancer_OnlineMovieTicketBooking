@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "mfJeQDLw5HGS2l5W0IpGsZvw/03ogmdtwHDn2wwb+Iw=",
+  "Source": "MovieTicketAPI",
+  "BasePath": "_content/MovieTicketAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieTicketAPI\\wwwroot",
+      "Source": "MovieTicketAPI",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
+      "BasePath": "_content/MovieTicketAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\images\\rolling_banner_980x448_2_.png",
+      "SourceId": "MovieTicketAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
+      "BasePath": "_content/MovieTicketAPI",
+      "RelativePath": "images/rolling_banner_980x448_2_.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\rolling_banner_980x448_2_.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\images\\Screenshot 2024-06-10 230311.png",
+      "SourceId": "MovieTicketAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
+      "BasePath": "_content/MovieTicketAPI",
+      "RelativePath": "images/Screenshot 2024-06-10 230311.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2024-06-10 230311.png"
+    }
+  ]
+}

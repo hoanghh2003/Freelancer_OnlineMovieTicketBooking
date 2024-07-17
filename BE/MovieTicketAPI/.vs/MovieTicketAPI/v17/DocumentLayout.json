@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:52:48.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\User.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:52:28.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\appsettings.json",
+              "RelativeToolTip": "MovieTicketAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T12:31:57.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MovieTicketAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T12:30:29.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:24:12.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAqwFQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:23:29.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Program.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:22:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:22:06.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:21:37.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:21:04.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
