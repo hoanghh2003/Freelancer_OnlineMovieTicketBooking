@@ -1,31 +1,62 @@
-// src/components/MovieCarousel.tsx
-
 import React from 'react';
-import { Carousel } from 'react-responsive-carousel';
-import 'react-responsive-carousel/lib/styles/carousel.min.css';
-
-interface Movie {
-  id: number;
-  title: string;
-  genre: string;
-  releaseDate: string;
-  imageUrl: string;
-}
+import Slider from 'react-slick';
+import { Movie } from '../interfaces/Movie';
 
 interface MovieCarouselProps {
   movies: Movie[];
 }
 
 const MovieCarousel: React.FC<MovieCarouselProps> = ({ movies }) => {
+  const settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 3000, // Thời gian trượt tự động (miliseconds)
+    arrows: true,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          infinite: true,
+          dots: true
+        }
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          initialSlide: 1
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  };
+
   return (
-    <Carousel showThumbs={false} infiniteLoop useKeyboardArrows autoPlay>
-      {movies.map(movie => (
-        <div key={movie.id}>
-          <img src={movie.imageUrl.startsWith('http') ? movie.imageUrl : `https://localhost:5001${movie.imageUrl}`} alt={movie.title} />
-          <p className="legend">{movie.title}</p>
-        </div>
-      ))}
-    </Carousel>
+    <div className="movie-carousel">
+      <Slider {...settings}>
+        {movies.map(movie => (
+          <div key={movie.id} className="carousel-item">
+            <img src={movie.imageUrl} alt={movie.title} />
+            <div className="carousel-caption">
+              <h3>{movie.title}</h3>
+            </div>
+          </div>
+        ))}
+      </Slider>
+    </div>
   );
 };
 

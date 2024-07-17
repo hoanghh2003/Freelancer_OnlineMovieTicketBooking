@@ -1,29 +1,20 @@
-// src/components/MovieCard.tsx
 import React from 'react';
-
-interface Movie {
-  id: number;
-  title: string;
-  genre: string;
-  releaseDate: string;
-  imageUrl: string;
-}
+import { Movie } from '../interfaces/Movie';
 
 interface MovieCardProps {
   movie: Movie;
   onBuyTicket: (movieId: number) => void;
+  onViewDetails: (movieId: number) => void;
 }
 
-const MovieCard: React.FC<MovieCardProps> = ({ movie, onBuyTicket }) => {
+const MovieCard: React.FC<MovieCardProps> = ({ movie, onBuyTicket, onViewDetails }) => {
   return (
     <div className="movie-card">
       <img src={movie.imageUrl} alt={movie.title} />
       <div className="movie-info">
         <h3>{movie.title}</h3>
-        <p>{movie.genre}</p>
-        <p>{new Date(movie.releaseDate).toDateString()}</p>
         <button onClick={() => onBuyTicket(movie.id)}>Mua vé</button>
-        <button>Xem chi tiết</button>
+        <button onClick={() => onViewDetails(movie.id)}>Xem chi tiết</button>
       </div>
     </div>
   );

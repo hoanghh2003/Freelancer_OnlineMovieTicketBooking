@@ -11,7 +11,8 @@ namespace MovieTicketAPI.Data
         }
 
         public DbSet<Movie> Movies { get; set; }
-        public DbSet<Ticket> Tickets { get; set; }
+        public DbSet<Show> Shows { get; set; }
+        public DbSet<Booking> Bookings { get; set; }
         public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

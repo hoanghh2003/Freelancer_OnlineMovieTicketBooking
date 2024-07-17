@@ -1,45 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\project\\movieticketapi\\movieticketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\models\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\controllers\\showscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\showscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\dtos\\bookingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\dtos\\bookingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\dtos\\showcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\dtos\\showcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|c:\\users\\dell\\desktop\\ki5\\freelancer_onlinemovieticketbooking\\be\\movieticketapi\\movieticketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AE054C59-6378-4789-B82B-E393DBAE47B7}|MovieTicketAPI\\MovieTicketAPI.csproj|solutionrelative:movieticketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -50,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,37 +86,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MovieDetails.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\MovieDetails.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\MovieDetails.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\MovieDetails.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Models\\MovieDetails.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:36:59.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\DTOs\\BookingCreateDto.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\DTOs\\BookingCreateDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\DTOs\\BookingCreateDto.cs",
+              "RelativeToolTip": "MovieTicketAPI\\DTOs\\BookingCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:19:16.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\DTOs\\ShowCreateDto.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\DTOs\\ShowCreateDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\DTOs\\ShowCreateDto.cs",
+              "RelativeToolTip": "MovieTicketAPI\\DTOs\\ShowCreateDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:13:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:57:22.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\ShowsController.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Controllers\\ShowsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\ShowsController.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Controllers\\ShowsController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAA9wHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:56:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\Booking.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:48:52.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Show.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\Show.cs",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\Show.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\Show.cs",
+              "RelativeToolTip": "MovieTicketAPI\\Models\\Show.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:48:32.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MovieTicketAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\appsettings.Development.json",
+              "RelativeToolTip": "MovieTicketAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T05:15:08.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MovieTicketAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "MovieTicketAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T12:52:48.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\User.cs",
               "RelativeToolTip": "MovieTicketAPI\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T12:52:28.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\appsettings.json",
               "RelativeDocumentMoniker": "MovieTicketAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\appsettings.json",
               "RelativeToolTip": "MovieTicketAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -101,11 +229,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MovieTicketAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "MovieTicketAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -114,52 +242,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicketsController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\TicketsController.cs",
-              "RelativeDocumentMoniker": "MovieTicketAPI\\Controllers\\TicketsController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\TicketsController.cs",
-              "RelativeToolTip": "MovieTicketAPI\\Controllers\\TicketsController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T12:24:12.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MovieTicketAPI\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MovieTicketAPI\\Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAqwFQAAAAwAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowGAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T12:23:29.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Program.cs",
               "RelativeDocumentMoniker": "MovieTicketAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Program.cs",
               "RelativeToolTip": "MovieTicketAPI\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T12:22:59.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MovieTicketAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "MovieTicketAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBgAAAAhAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T12:22:06.958Z",
               "EditorCaption": ""
@@ -167,25 +282,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\Ticket.cs",
-              "RelativeToolTip": "MovieTicketAPI\\Models\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T12:21:37.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MovieTicketAPI\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\Models\\Movie.cs",
               "RelativeToolTip": "MovieTicketAPI\\Models\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T12:21:04.52Z",
               "EditorCaption": ""
