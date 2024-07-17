@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SrhyO1O/2T4=",
+  "dgSpecHash": "3TdjG1+OBRg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -23,6 +23,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.7\\microsoft.entityframeworkcore.inmemory.8.0.7.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.7\\microsoft.entityframeworkcore.relational.8.0.7.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.7\\microsoft.entityframeworkcore.sqlserver.8.0.7.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.7\\microsoft.entityframeworkcore.tools.8.0.7.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",

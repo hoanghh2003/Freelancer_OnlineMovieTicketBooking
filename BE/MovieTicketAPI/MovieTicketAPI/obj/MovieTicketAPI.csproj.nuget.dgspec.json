@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj",
         "projectName": "MovieTicketAPI",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\MovieTicketAPI.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,6 +61,12 @@
               "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
             },

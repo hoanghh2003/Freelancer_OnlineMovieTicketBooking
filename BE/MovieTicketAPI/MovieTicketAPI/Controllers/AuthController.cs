@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MovieTicketAPI.Data;
 using MovieTicketAPI.Models;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace MovieTicketAPI.Controllers
 {
@@ -16,10 +18,22 @@ namespace MovieTicketAPI.Controllers
             _context = context;
         }
 
-        [HttpPost("login")]
-        public IActionResult Login([FromBody] User login)
+        [HttpPost("register")]
+        public async Task<IActionResult> Register([FromBody] User user)
         {
-            var user = _context.Users.SingleOrDefault(x => x.Username == login.Username && x.Password == login.Password);
+            if (await _context.Users.AnyAsync(x => x.Username == user.Username))
+                return BadRequest("Username already exists");
+
+            _context.Users.Add(user);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { message = "Registration successful" });
+        }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] User login)
+        {
+            var user = await _context.Users.SingleOrDefaultAsync(x => x.Username == login.Username && x.Password == login.Password);
 
             if (user == null)
                 return Unauthorized("Invalid username or password");

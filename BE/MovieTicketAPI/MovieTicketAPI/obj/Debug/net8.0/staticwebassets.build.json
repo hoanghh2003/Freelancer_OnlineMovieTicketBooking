@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mfJeQDLw5HGS2l5W0IpGsZvw/03ogmdtwHDn2wwb+Iw=",
+  "Hash": "IkBzMu29AfnZKc/MQW3Wa3idYlpkeYPzG54if1+mCEo=",
   "Source": "MovieTicketAPI",
   "BasePath": "_content/MovieTicketAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MovieTicketAPI\\wwwroot",
       "Source": "MovieTicketAPI",
-      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
       "BasePath": "_content/MovieTicketAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\images\\rolling_banner_980x448_2_.png",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\images\\rolling_banner_980x448_2_.png",
       "SourceId": "MovieTicketAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
       "BasePath": "_content/MovieTicketAPI",
       "RelativePath": "images/rolling_banner_980x448_2_.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rolling_banner_980x448_2_.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\images\\Screenshot 2024-06-10 230311.png",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\images\\Screenshot 2024-06-10 230311.png",
       "SourceId": "MovieTicketAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Project\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Ki5\\Freelancer_OnlineMovieTicketBooking\\BE\\MovieTicketAPI\\MovieTicketAPI\\wwwroot\\",
       "BasePath": "_content/MovieTicketAPI",
       "RelativePath": "images/Screenshot 2024-06-10 230311.png",
       "AssetKind": "All",
