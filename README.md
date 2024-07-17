@@ -32,7 +32,6 @@ Online Movie Ticket Booking is an application that allows users to book movie ti
 - **Others**:
 - Firebase
 - Github
-- Jira
 
 ## Team Member Assignment Table
 | Member Name | Role |
