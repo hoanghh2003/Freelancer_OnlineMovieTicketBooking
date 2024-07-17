@@ -5,24 +5,19 @@
 - [Major Features (Epics)](#major-features-epics)
 - [Technologies Used](#technologies-used)
 - [Team Member Assignment Table](#team-member-assignment-table)
-  - [Table 1: User Stories of Each Sprint](#table-1-user-stories-of-each-sprint)
-  - [Table 2: Member Assignment for Sprint 1](#table-2-member-assignment-for-sprint-1)
-  - [Table 3: Member Assignment for Sprint 2](#table-3-member-assignment-for-sprint-2)
-  - [Table 4: Member Assignment for Sprint 3](#table-4-member-assignment-for-sprint-3)
 
 ## Project Description
-Pets' Spa Management is an application for managing pet spa services, helping pet owners easily schedule appointments, track the care process, and conveniently and quickly pay for services.
+Online Movie Ticket Booking is an application that allows users to book movie tickets easily and conveniently from their devices. The application offers a user-friendly interface for browsing movies, selecting seats, making payments, and receiving tickets digitally.
 
 
 ## Major Features (Epics)
-- **Manage Account**: Includes functionalities like login, logout, password reset, create account, edit account, delete account, search account, grant permissions.
-- **Manage Profile**: View and update profile.
-- **Manage Staff**: Add, edit, delete staff members and assign task.
-- **Booking**: View, create, update, and cancel, evaluate service.
-- **Manage Service**: View, add, edit and delete service.
-- **Manage Combo**: Create, update, delete, and view combo.
-- **Manage Pet**: Add, update, and delete pet.
-- **Payment**: Save payment, view payment history, view online transaction history.
+- **User Account Management**: Includes functionalities like login, logout, password reset, account creation, profile updates, and account deletion.
+- **Movie Listings**: Display a list of currently showing and upcoming movies with detailed information such as synopsis, cast, and trailers.
+- **Booking Management**: Enable users to view available showtimes, select seats, and book tickets.
+- **Ticket Management**: Generate digital tickets and send them to users. Users can view their booking history and manage their tickets.
+- **Notification System**: Send notifications and reminders about upcoming movies, special offers, and booking confirmations.
+- **Review and Rating**: Allow users to rate and review movies they have watched.
+- **Payment Integration**: Supports various payment methods, allowing users to pay for their tickets securely and receive confirmation.
 
 ## Technologies Used
 - **Backend**:
@@ -31,11 +26,16 @@ Pets' Spa Management is an application for managing pet spa services, helping pe
   - SQL Server
   - VNPAY
 - **Frontend**:
-  - React Js
-  - Tailwind
+  - ReactJS
+  - Typescript
   - Antd
+- **Others**:
 - Firebase
 - Github
 - Jira
 
 ## Team Member Assignment Table
+| Member Name | Role |
+|-------------|---------------|
+| Ha Huy Hoang     | Full-Stack    |
+| Nguyen Ba Minh Duc    | Full-Stack    |
